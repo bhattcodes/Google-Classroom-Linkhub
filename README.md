@@ -20,3 +20,11 @@ Step 4 : Select your Class/ Teacher.
   Add your valuable Reviews. 
   
   Made with ❤ By: abx.
+  
+  
+# AUTHOR:
+Aman Bhatt [ https://github.com/bhattcodes ]
+
+# LICENSE: 
+This project is licensed under the [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) - see the [LICENSE] file for details
+
