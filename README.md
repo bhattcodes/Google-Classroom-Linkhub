@@ -1,10 +1,10 @@
 # Google Classroom LinkHub
 
-##Chrome Extention 
+Chrome Extention 
 Saves all your Google Meet and Google Classroom Links at One Place
 ## Simple UI, All links, One Place, Fast Access.
 
-##How To Use ??
+How To Use ??
 
 Step 1 : Enter Details (Teacher Name, Class Name, Meet link, GCR link)
 Step 2 : Click 'Plus' icon to add Details.
