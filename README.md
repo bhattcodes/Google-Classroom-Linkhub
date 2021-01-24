@@ -10,14 +10,14 @@ How To Use ??
 >Step 2 : Click 'Plus' icon to add Details.<br/>
 >Step 3 : Open any Base link (Caution: Extensions doesn't work on empty Urls).<br/>
 >Step 4 : Select your Class/ Teacher. <br/>
-         Now click on 'MEET' button to join Google Meet or
+         Now click on 'MEET' button to join Google Meet or<br/>
          click on 'Google Classroom' to join GCR
          
->- Want to Delete ?
+>- Want to Delete ?<br/>
   Select Class/ Teacher you want to Delete, Click on 'Minus' icon to Delete selected.
   
   Like my work,
-  Add your valuable Reviews. 
+  Add your valuable Reviews. <br/>
   
   Made with ❤ By: abx.
   
