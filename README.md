@@ -1,8 +1,7 @@
 # Google Classroom LinkHub
 
 Chrome Extention 
-Saves all your Google Meet and Google Classroom Links at One Place
-Link : https://chrome.google.com/webstore/detail/google-classroom-linkhub/mbkeinklkdfiodfhojbpikpikmbidmgb
+Saves all your Google Meet and Google Classroom Links at One Place.
 ## Simple UI, All links, One Place, Fast Access.
 
 How To Use ??
