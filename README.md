@@ -5,7 +5,7 @@ Saves all your Google Meet and Google Classroom Links at One Place.
 ## Simple UI, All links, One Place, Fast Access.
 
 <p align="center">
-  <img src="./images/googleClassrommLinkhub.jpg" width="auto" height="auto" title="Image">
+  <img src="./images/googleClassroomLinkhub.jpg" width="auto" height="auto" title="Image">
 </p>
 
 How To Use ??
